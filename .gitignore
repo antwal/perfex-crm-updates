@@ -1,0 +1,14 @@
+.DS_Store
+
+# Local build and packaging artifacts
+/dist/
+
+# Local Perfex CRM reference copy (not tracked)
+/perfex-crm/
+/perfex-crm-3.4.1/
+
+# Local documentation assets/site copy (not tracked)
+/documentation/
+
+# Local Copilot notes for this workspace
+/.github/*.md
