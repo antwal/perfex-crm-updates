@@ -4,8 +4,7 @@
 /dist/
 
 # Local Perfex CRM reference copy (not tracked)
-/perfex-crm/
-/perfex-crm-3.4.1/
+/perfex-crm*/
 
 # Local documentation assets/site copy (not tracked)
 /documentation/
